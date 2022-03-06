@@ -1,0 +1,45 @@
+
+
+h4{
+   margin:0 0 5px 0;
+   padding:10px 0 ;
+   background-color:#999999;
+   text-align:center;
+}   
+.mainbox{
+   width:780px;
+   margin-left:100px;
+   background-color:#cccccc;
+   padding:10px 10px 10px 10px;
+}
+.left{
+   float:left;
+   width:25%;
+   background-color:#999900;
+}
+.center{
+   text-align:center;
+}
+input{
+   padding:0 10px;
+   margin:5px 0;
+}
+.right{
+   float:right;
+   width:25%;
+}
+.right_select{
+   width:100%;
+   background-color:#999900;
+   margin-bottom:5px;
+}  
+.bottom{
+   text-align:center;
+}
+input{
+	BORDER:#9CD3FF 1px solid;	
+	padding:4px 2px 0 2px; 
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#9CD3FF); 
+	CURSOR: hand; 
+	COLOR: black; 
+	FONT-SIZE: 10pt; 
